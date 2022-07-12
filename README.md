@@ -1,7 +1,7 @@
 # Machine_Learning-Project 
 Hello all,
 </br>
-Nice to see you exploring my machine learning project which I made during my 5th semester along with [Navaneeth](https://github.com/itsNavaneeth).
+Nice to see you exploring my machine learning project which I made during my 5th semester along with [Navaneeth S](https://github.com/itsNavaneeth) .
 </br>
 The project's main aim is to the **predict the health of crops** of various types given its exposure to various factors such as soil type, insect counts,season, pesticides etc
 </br>
